@@ -5,5 +5,5 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.MiJuegodePalabras" parent="Base.Theme.MiJuegodePalabras" />
+    <style name="Theme.JuegodePreguntas" parent="Base.Theme.MiJuegodePalabras" />
 </resources>
